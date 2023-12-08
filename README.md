@@ -10,7 +10,7 @@ This project is a simple web application that displays information about NBA leg
 
 ## Live Project Link
 
-You can access the live version of the project [here]().
+You can access the live version of the project [here](https://nba-legends-beta.vercel.app/).
 
 ## Project Skeleton
 
